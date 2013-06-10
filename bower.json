@@ -1,6 +1,12 @@
 {
   "name": "sp2013-css",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "SharePoint 2013 CSS files",
+  "keywords": [
+    "SharePoint 2013",
+    "css",
+    "design"
+  ],
   "main": "corev15.css",
   "ignore": [
     "**/.*",
