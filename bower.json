@@ -1,0 +1,10 @@
+{
+  "name": "sp2013-css",
+  "version": "0.0.0",
+  "main": "corev15.css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
